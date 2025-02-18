@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poor+Story&family=Rubik+Bubbles&family=Satisfy&display=swap');
+/* hier wird bearbeitet alle Classe  */
+
+.Haupt_titel{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(151, 58, 89);
+    font-size: 80px;
+    /* text-align: center; */
+    /* background-image:url("../Bilder/Logo.png") ; */
+    /* background-position: left; */
+    /* background-size: 2230px; */
+    padding: 140px 300px ;
+
+}
+
+.Home{
+background-image: url("../Bilder/Home.png");
+background-size: 1900px;
+background-position: center;
+padding: 50px 20px 50px 50px;
+
+}
+.UnterTitel1{
+    padding: 0px 0px 0px 40px ;
+    font-size: 30px;
+    color: rgb(87, 84, 85);
+}
+.UnterTitel2{
+    padding: 0px 0px 0px 40px ;
+    font-size: 30px;
+    color: rgb(87, 84, 85);
+}
+.UnterTitel3{
+    padding: 0px 0px 0px 40px ;
+    font-size: 30px;
+    color: rgb(87, 84, 85);
+}
+    .navlist{
+    background-color: rgb(82, 77, 77);
+    height: auto;
+
+}
+.navlist li {
+    display: inline-block; 
+    padding: 20px;
+   
+}
+.navlist li a{
+    color: aliceblue;
+}
+.navlist li a  {
+    color: rgb(236, 227, 228);
+}
+.Kontakt {
+    background-color: rgb(151, 58, 89);
+}
+    
+.Kontakt li{
+
+display: inline-block;
+margin: 10px 40px 10px 50px;
+}
+.Kontakt li a{
+    color: aliceblue;
+}
+.Home h3{
+    color: rgb(141, 41, 74);
+    padding: 0px 0px 0px 0px ;
+}
+.Produkt_Li h3 {
+    color: rgb(141, 41, 74);
+ padding: 0px 20px 20px 30px ;
+}
+.Über_Uns h3{
+    color: rgb(141, 41, 74);
+    padding: 0px 20px 20px 30px ;
+}
+/* hier wird bearbeitet alle ID  */
+#melden{
+    border: 10px;
+    float: right;
+    /* background-color: rgb(141, 41, 74); */
+}
+#suchen{
+    float: right;
+    color: aliceblue;
+    }
+#btn_Login{
+button
+    }
